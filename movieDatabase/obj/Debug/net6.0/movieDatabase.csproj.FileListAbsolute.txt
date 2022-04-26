@@ -1,0 +1,15 @@
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\bin\Debug\net6.0\movieDatabase.exe
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\bin\Debug\net6.0\movieDatabase.deps.json
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\bin\Debug\net6.0\movieDatabase.runtimeconfig.json
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\bin\Debug\net6.0\movieDatabase.dll
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\bin\Debug\net6.0\ref\movieDatabase.dll
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\bin\Debug\net6.0\movieDatabase.pdb
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.csproj.AssemblyReference.cache
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.AssemblyInfoInputs.cache
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.AssemblyInfo.cs
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.csproj.CoreCompileInputs.cache
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.dll
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\ref\movieDatabase.dll
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.pdb
+C:\GCclasswork\c#class\movieDatabase\movieDatabase\obj\Debug\net6.0\movieDatabase.genruntimeconfig.cache
